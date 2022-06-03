@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="princeton">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/princeton.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
